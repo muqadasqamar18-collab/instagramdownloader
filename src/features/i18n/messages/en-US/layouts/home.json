@@ -1,0 +1,20 @@
+{
+  "header": {
+    "themeLabel": "Theme",
+    "localeLabel": "Language",
+    "links": {
+      "features": "Features",
+      "howItWorks": "How It Works",
+      "frequentlyAsked": "FAQ"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} InstaDown. Made with 💜 for Instagram lovers worldwide.",
+    "links": {
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "contact": "Contact Us",
+      "reportAbuse": "Report Abuse"
+    }
+  }
+}

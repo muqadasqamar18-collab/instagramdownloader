@@ -1,0 +1,127 @@
+{
+  "title": "InstaDown",
+  "description": "Download any Instagram video or reel in seconds—no app needed, no sign-up required, completely free forever.",
+  "hero": {
+    "title": "Save Instagram Videos Instantly",
+    "description": "Download any Instagram video or reel in seconds—no app needed, no sign-up required, completely free forever.",
+    "form": {
+      "placeholder": "Paste Instagram video URL here...",
+      "button": "Download"
+    },
+    "formHint": "Works with posts, reels & IGTV",
+    "bullets": {
+      "supported": "Works with posts, reels & IGTV",
+      "trust": "Already trusted by 100,000+ users"
+    },
+    "learnMore": "Learn how it works"
+  },
+  "features": {
+    "badge": "Features",
+    "title": "Everything You Need to Save Instagram Content",
+    "description": "The fastest, easiest way to download videos from Instagram",
+    "cards": {
+      "free": {
+        "title": "Forever Free",
+        "description": "Download unlimited Instagram videos without ever paying. No subscriptions, no hidden costs, no trial periods—just pure, unlimited access."
+      },
+      "noRegistration": {
+        "title": "Zero Barriers",
+        "description": "No account creation. No login required. No email verification. Just paste, click, and download. We respect your privacy and time."
+      },
+      "fast": {
+        "title": "Blazing Fast",
+        "description": "Powered by optimized servers that process requests in milliseconds. Your videos download instantly—no waiting, no buffering, no frustration."
+      },
+      "hdQuality": {
+        "title": "Maximum Quality",
+        "description": "Preserve every pixel. We fetch videos in their original upload quality—full HD when available, ensuring your downloads look exactly as intended."
+      }
+    }
+  },
+  "howItWorks": {
+    "badge": "How It Works",
+    "title": "Download in 3 Clicks",
+    "description": "So simple, anyone can do it",
+    "steps": {
+      "copy": {
+        "title": "Find & Copy",
+        "descriptionDesktop": "Open Instagram, find the video you love, and copy its link (tap the \"•••\" menu → Copy Link)",
+        "descriptionMobile": "Open Instagram, find the video you love, and copy its link (tap \"•••\" → Copy Link)"
+      },
+      "paste": {
+        "title": "Paste Here",
+        "descriptionDesktop": "Return to this page and paste the link into our downloader—it takes just one second",
+        "descriptionMobile": "Return to this page and paste the link into our downloader—it takes just one second"
+      },
+      "download": {
+        "title": "Save Forever",
+        "descriptionDesktop": "Hit download and the video saves directly to your device. Keep it, share it, watch it offline anytime.",
+        "descriptionMobile": "Hit download and the video saves directly to your device. Keep it, share it, watch it offline anytime."
+      }
+    },
+    "ctaButton": "Try It Now - It's Free"
+  },
+  "testimonials": {
+    "title": "Join the Community",
+    "description": "Thousands download their favorite Instagram content every day",
+    "stats": {
+      "downloads": "Daily Downloads",
+      "users": "Happy Users",
+      "rating": "Average Rating",
+      "countries": "Countries Worldwide"
+    }
+  },
+  "frequentlyAsked": {
+    "badge": "FAQ",
+    "title": "Your Questions Answered",
+    "description": "Everything you need to know before downloading",
+    "sections": {
+      "general": {
+        "title": "General",
+        "q1": {
+          "trigger": "Is this actually free?",
+          "content": "100% free, forever. No trial period that expires, no \"premium\" upsells, no limits. Download as many videos as you want, whenever you want."
+        },
+        "q2": {
+          "trigger": "Why don't you require an account?",
+          "content": "Because we believe downloading should be instant. No forms, no passwords, no verification emails—just paste and download."
+        },
+        "q3": {
+          "trigger": "Is downloading Instagram videos legal?",
+          "content": "Yes, for personal use. Always respect creators' rights—don't repost content without permission or use videos commercially without authorization."
+        },
+        "q4": {
+          "trigger": "Do you store my downloads or data?",
+          "content": "Never. We don't store videos, track your downloads, or collect personal information. Your privacy is guaranteed."
+        }
+      },
+      "technical": {
+        "title": "Technical",
+        "q1": {
+          "trigger": "What types of Instagram content can I download?",
+          "content": "Instagram posts, reels, IGTV videos, and carousel videos. We support all public Instagram video content."
+        },
+        "q2": {
+          "trigger": "What about private accounts?",
+          "content": "Our service only works with public Instagram content. Private account videos cannot be downloaded."
+        },
+        "q3": {
+          "trigger": "How is the video quality?",
+          "content": "We fetch the highest quality available—typically the same resolution the creator uploaded. Most videos are 720p-1080p HD."
+        },
+        "q4": {
+          "trigger": "What video format do you provide?",
+          "content": "Videos download as MP4 files, compatible with all devices and video players."
+        },
+        "q5": {
+          "trigger": "Does it work on mobile devices?",
+          "content": "Absolutely! Our downloader works perfectly on iPhone, Android, tablets, and all mobile browsers."
+        },
+        "q6": {
+          "trigger": "Why did my download fail?",
+          "content": "This usually means the video was deleted, the account went private, or the URL was incorrect. Try copying the link again."
+        }
+      }
+    }
+  }
+}
